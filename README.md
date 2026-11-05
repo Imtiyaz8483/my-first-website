@@ -1,1 +1,12 @@
-# my-first-website
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+</head>
+<body>
+    <h1>Welcome to My Website!</h1>
+    <p>My name is Imtiyaz.</p>
+    <p>I am learning website development.</p>
+</body>
+</html>
